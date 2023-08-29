@@ -47,6 +47,7 @@ If you can't find your country listed, contact INHOPE through their website: htt
  - Coping with Child Sexual Abuse Material Exposure: https://www.nctsn.org/resources/coping-with-child-sexual-abuse-material-exposure
 
 ## Moderation Workflow Harm Reduction
+Consider using a second browser profile for moderation activities.
  - Painless Peek - a browser extension to make it easier to more safley view traumatic imagery: https://github.com/adacable/painlessPeek
  - Firefox Grayscale - renders images in grayscale to reduce trauma: https://github.com/xpmn/firefox-grayscale
 
