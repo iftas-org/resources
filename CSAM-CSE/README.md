@@ -2,26 +2,26 @@
 If you suspect a child is in immediate danger in any way, contact the police immediately.
 
 ## General Guidance
-User Generated Content and the Fediverse: A Legal Primer: https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer
-Notes on operating fediverse services (Mastodon, Pleroma etc) from an English law point of view: https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view
-Scaling a public Mastodon instance: Legal, compliance, privacy and more: https://bottomlinelawgroup.com/2023/01/23/mastodon-instance-legal-compliance-privacy/?doing_wp_cron=1691167165.0044350624084472656250
-Combating child sexual abuse online: https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/738224/EPRS_BRI(2022)738224_EN.pdf
+ - User Generated Content and the Fediverse: A Legal Primer: https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer
+ - Notes on operating fediverse services (Mastodon, Pleroma etc) from an English law point of view: https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view
+ - Scaling a public Mastodon instance: Legal, compliance, privacy and more: https://bottomlinelawgroup.com/2023/01/23/mastodon-instance-legal-compliance-privacy/?doing_wp_cron=1691167165.0044350624084472656250
+ - Combating child sexual abuse online: https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/738224/EPRS_BRI(2022)738224_EN.pdf
 
 ## Legal status of fictional pornography depicting minors
-https://en.wikipedia.org/wiki/Legal_status_of_fictional_pornography_depicting_minors
+ - https://en.wikipedia.org/wiki/Legal_status_of_fictional_pornography_depicting_minors
 
 ## National and Extranational Law
-https://en.wikipedia.org/wiki/Legality_of_child_pornography
+ - https://en.wikipedia.org/wiki/Legality_of_child_pornography
 
 ## Detection
 Services exist to compare stored media with hashes of known material, and ML-assisted perceptual matches. For the most part, these are heavily restricted and will require your ability to sign legal agreements with the service providers. 
 
-Cloudflare CSAM Scanning Tool: https://developers.cloudflare.com/cache/reference/csam-scanning/
-Cloudflare Tutorial (Firefish): https://socialweb.coop/blog/firefish-cloudflare-quickfix-r2-tutorial/
+ - Cloudflare CSAM Scanning Tool: https://developers.cloudflare.com/cache/reference/csam-scanning/
+ -- Cloudflare Tutorial (Firefish): https://socialweb.coop/blog/firefish-cloudflare-quickfix-r2-tutorial/
 
-Microsoft PhotoDNA: https://www.microsoft.com/en-us/photodna
-Thorn Safer: https://get.safer.io/csam-detection-tool-for-child-safety
-Project Arachnid Shield: https://projectarachnid.ca/en/#shield
+ - Microsoft PhotoDNA: https://www.microsoft.com/en-us/photodna
+ - Thorn Safer: https://get.safer.io/csam-detection-tool-for-child-safety
+ - Project Arachnid Shield: https://projectarachnid.ca/en/#shield
 
 ## Reporting
 You may be legally required to report CSAM and/or CSE to the authorities. In general, your country of operation is what matters, followed by the country in which you host the media.
