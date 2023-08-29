@@ -8,21 +8,27 @@ If you suspect a child is in immediate danger in any way, contact the police imm
  - Combating child sexual abuse online: https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/738224/EPRS_BRI(2022)738224_EN.pdf
 
 ## Legal status of fictional pornography depicting minors
+There is much confusion surrounding the legality of fictional CSAM in some territories. Regardless of its legality in a given jurisdiction, if your content is available to end users in a jurisdiction where such content is illegal, you are liable for its availability. 
  - https://en.wikipedia.org/wiki/Legal_status_of_fictional_pornography_depicting_minors
 
 ## National and Extranational Law
+Scroll down to review the legality of real/realistic; fictional; and possession in most countries.
  - https://en.wikipedia.org/wiki/Legality_of_child_pornography
 
 ## Detection
 Services exist to compare stored media with hashes of known material, and ML-assisted perceptual matches. For the most part, these are heavily restricted and will require your ability to sign legal agreements with the service providers. If you are an independent provider and would like to use IFTAS detection services, please fill out this Needs Assessment: https://cryptpad.fr/form/#/2/form/view/thnEBypiNlR6qklaQNmWAkoxxeEEJdElpzM7h2ZIwXA/ 
 
+### CDN
  - Cloudflare CSAM Scanning Tool: https://developers.cloudflare.com/cache/reference/csam-scanning/
- -- Cloudflare Tutorial (Firefish): https://socialweb.coop/blog/firefish-cloudflare-quickfix-r2-tutorial/
 
+### Standalone Platforms
  - Microsoft PhotoDNA: https://www.microsoft.com/en-us/photodna
  - Thorn Safer: https://get.safer.io/csam-detection-tool-for-child-safety
  - Project Arachnid Shield: https://projectarachnid.ca/en/#shield
- - (Lemmy) A script that goes through a lemmy pict-rs object storage and tries to prevent illegal or unethical content: https://github.com/db0/lemmy-safety
+
+### Platform-specific
+  - (Lemmy) A script that goes through a lemmy pict-rs object storage and tries to prevent illegal or unethical content: https://github.com/db0/lemmy-safety
+  - (Firefish) CloudFlare configuration: https://socialweb.coop/blog/firefish-cloudflare-quickfix-r2-tutorial/
 
 ## Reporting
 You may be legally required to report CSAM and/or CSE to the authorities. In general, your country of operation is what matters, followed by the country in which you host the media.
