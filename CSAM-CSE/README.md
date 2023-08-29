@@ -22,6 +22,7 @@ Services exist to compare stored media with hashes of known material, and ML-ass
  - Microsoft PhotoDNA: https://www.microsoft.com/en-us/photodna
  - Thorn Safer: https://get.safer.io/csam-detection-tool-for-child-safety
  - Project Arachnid Shield: https://projectarachnid.ca/en/#shield
+ - (Lemmy) A script that goes through a lemmy pict-rs object storage and tries to prevent illegal or unethical content: https://github.com/db0/lemmy-safety
 
 ## Reporting
 You may be legally required to report CSAM and/or CSE to the authorities. In general, your country of operation is what matters, followed by the country in which you host the media.
