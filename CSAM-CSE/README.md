@@ -14,6 +14,7 @@ If you operate an ActivityPub service you are an electronic communications provi
  - User Generated Content and the Fediverse: A Legal Primer: https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer
  - Notes on operating fediverse services (Mastodon, Pleroma etc) from an English law point of view: https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view
  - Scaling a public Mastodon instance: Legal, compliance, privacy and more: https://bottomlinelawgroup.com/2023/01/23/mastodon-instance-legal-compliance-privacy/?doing_wp_cron=1691167165.0044350624084472656250
+ - A guide to potential liability pitfalls for people running a Mastodon instance: https://denise.dreamwidth.org/91757.html
  - Combating child sexual abuse online: https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/738224/EPRS_BRI(2022)738224_EN.pdf
 
 ## Legal status of fictional pornography depicting minors
