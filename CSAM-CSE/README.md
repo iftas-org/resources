@@ -34,11 +34,16 @@ If you are an independent provider and would like to use IFTAS detection service
   - (Firefish) CloudFlare configuration: https://socialweb.coop/blog/firefish-cloudflare-quickfix-r2-tutorial/
 
 ## Reporting
-You may be legally required to report CSAM and/or CSE to the authorities. In general, your country of operation is what matters, followed by the country in which you host the media.
+You may be legally required to report CSAM and/or CSE to the authorities. In general, your country of operation is what matters, followed by the country in which you host the media. Exactly what needs to be reported, how quickly, and to whom varies depending on the country and type of provider. In general however,  electronic service providers (this includes all ActivityPub services that are not single-user instances) are not required to actively seek out CSAM, but simply to report it when they are made aware of it. They might become aware of the content because of several things. Examples include performing their own voluntary actions to detect CSAM on their services, or as a result of external parties and service users flagging it to them.
 
-US Reporting Requirements: https://www.law.cornell.edu/uscode/text/18/2258A
+To explore your legal requirements, check the Global Legislative Review in this document: https://cdn.icmec.org/wp-content/uploads/2018/12/CSAM-Model-Law-9th-Ed-FINAL-12-3-18-1.pdf
 
-List of national reporting hotlines: https://support.google.com/websearch/answer/148666?hl=en
+The "ISP Reporting" column defines your requirements (ISP in this context includes electronic communication service providers)
+
+Be aware that some jurisdictions may require you to store the material for a law enforcement/investigatory purpose, in which case you must have processes in place to securely store and limit access to the material for a set period of time.
+
+#### List of national reporting hotlines
+https://support.google.com/websearch/answer/148666?hl=en
 
 If you can't find your country listed, contact INHOPE through their website: https://inhope.org/
 
