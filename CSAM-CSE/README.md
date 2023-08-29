@@ -43,7 +43,8 @@ List of national reporting hotlines: https://support.google.com/websearch/answer
 If you can't find your country listed, contact INHOPE through their website: https://inhope.org/
 
 ## Coping with Exposure
-https://www.nctsn.org/resources/coping-with-child-sexual-abuse-material-exposure
+ - Content Moderators’ Strategies for Coping with the Stress of Moderating Content Online: https://tsjournal.org/index.php/jots/article/view/91
+ - Coping with Child Sexual Abuse Material Exposure: https://www.nctsn.org/resources/coping-with-child-sexual-abuse-material-exposure
 
 ## Research
 Child Safety on Federated Social Media: https://purl.stanford.edu/vb515nd6874
