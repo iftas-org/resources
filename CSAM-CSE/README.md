@@ -39,7 +39,7 @@ https://www.nctsn.org/resources/coping-with-child-sexual-abuse-material-exposure
 Child Safety on Federated Social Media: https://purl.stanford.edu/vb515nd6874
 
 ## Discussion
-ActivityPub SocialHub: https://socialhub.activitypub.rocks/t/about-child-safety-on-federated-social-media/3447 
-ActivityPub FEP WIP: PhotoDNA Attestation extension: https://codeberg.org/fediverse/fep/pulls/140
-ActivityPub 2023-08-04 Special Topic Call - Social Web and CSAM: Liabilities and Tooling: https://socialhub.activitypub.rocks/t/2023-08-04-special-topic-call-social-web-and-csam-liabilities-and-tooling/3469
+ - ActivityPub SocialHub: https://socialhub.activitypub.rocks/t/about-child-safety-on-federated-social-media/3447 
+ - ActivityPub FEP WIP: PhotoDNA Attestation extension: https://codeberg.org/fediverse/fep/pulls/140
+ - ActivityPub 2023-08-04 Special Topic Call - Social Web and CSAM: Liabilities and Tooling: https://socialhub.activitypub.rocks/t/2023-08-04-special-topic-call-social-web-and-csam-liabilities-and-tooling/3469
 
