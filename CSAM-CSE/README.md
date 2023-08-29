@@ -2,6 +2,15 @@
 If you suspect a child is in immediate danger in any way, contact the police immediately.
 
 ## General Guidance
+
+### Disclaimer
+The information provided on this page does not, and is not intended to, constitute legal advice; instead, all information, content, and materials available on this page are for general informational purposes only.  Information on this page may not constitute the most up-to-date legal or other information.  This page contains links to other third-party Web sites.  Such links are only for the convenience of the reader, user or browser; IFTAS and its members do not recommend or endorse the contents of the third-party sites.
+
+Readers of this page should contact their attorney to obtain advice with respect to any particular legal matter.  No reader, user, or browser of this site should act or refrain from acting on the basis of information on this site without first seeking legal advice from counsel in the relevant jurisdiction.  Only your individual attorney can provide assurances that the information contained herein – and your interpretation of it – is applicable or appropriate to your particular situation.  Use of, and access to, this page or any of the links or resources contained within the site do not create an attorney-client relationship between the reader, user, or browser and Web page authors, contributors, contributing law firms, or IFTAS members and their respective employers. 
+
+### User Generated Content
+If you operate an ActivityPub service you are an electronic communications provider and meet the definitions of ESP, ISP, online service provider, and other nomenclature in law that describes electronic communications services. Services that federate with third parties, and/or have their content feeds visible to public users, and/or allow user account creation, are liable for the content they host and display to end users in all jurisdictions.
+
  - User Generated Content and the Fediverse: A Legal Primer: https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer
  - Notes on operating fediverse services (Mastodon, Pleroma etc) from an English law point of view: https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view
  - Scaling a public Mastodon instance: Legal, compliance, privacy and more: https://bottomlinelawgroup.com/2023/01/23/mastodon-instance-legal-compliance-privacy/?doing_wp_cron=1691167165.0044350624084472656250
@@ -12,7 +21,7 @@ There is much confusion surrounding the legality of fictional CSAM in some terri
  - https://en.wikipedia.org/wiki/Legal_status_of_fictional_pornography_depicting_minors
 
 ## National and Extranational Law
-Scroll down to review the legality of real/realistic; fictional; and possession in most countries.
+Scroll down in the linked page to review the legality of real/realistic; fictional; and possession in most countries.
  - https://en.wikipedia.org/wiki/Legality_of_child_pornography
 
 ## Detection
