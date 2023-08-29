@@ -46,7 +46,7 @@ If you can't find your country listed, contact INHOPE through their website: htt
  - Content Moderators’ Strategies for Coping with the Stress of Moderating Content Online: https://tsjournal.org/index.php/jots/article/view/91
  - Coping with Child Sexual Abuse Material Exposure: https://www.nctsn.org/resources/coping-with-child-sexual-abuse-material-exposure
 
-## Moderation Workflow Aids
+## Moderation Workflow Harm Reduction
  - Painless Peek - a browser extension to make it easier to more safley view traumatic imagery: https://github.com/adacable/painlessPeek
  - Firefox Grayscale - renders images in grayscale to reduce trauma: https://github.com/xpmn/firefox-grayscale
 
