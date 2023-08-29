@@ -14,7 +14,7 @@ If you suspect a child is in immediate danger in any way, contact the police imm
  - https://en.wikipedia.org/wiki/Legality_of_child_pornography
 
 ## Detection
-Services exist to compare stored media with hashes of known material, and ML-assisted perceptual matches. For the most part, these are heavily restricted and will require your ability to sign legal agreements with the service providers. 
+Services exist to compare stored media with hashes of known material, and ML-assisted perceptual matches. For the most part, these are heavily restricted and will require your ability to sign legal agreements with the service providers. If you are an independent provider and would like to use IFTAS detection services, please fill out this Needs Assessment: https://cryptpad.fr/form/#/2/form/view/thnEBypiNlR6qklaQNmWAkoxxeEEJdElpzM7h2ZIwXA/ 
 
  - Cloudflare CSAM Scanning Tool: https://developers.cloudflare.com/cache/reference/csam-scanning/
  -- Cloudflare Tutorial (Firefish): https://socialweb.coop/blog/firefish-cloudflare-quickfix-r2-tutorial/
