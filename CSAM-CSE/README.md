@@ -27,6 +27,7 @@ If you are an independent provider and would like to use IFTAS detection service
  - Microsoft PhotoDNA: https://www.microsoft.com/en-us/photodna
  - Thorn Safer: https://get.safer.io/csam-detection-tool-for-child-safety
  - Project Arachnid Shield: https://projectarachnid.ca/en/#shield
+ - AI Horde csam_checker: https://github.com/Haidra-Org/horde-safety/blob/main/horde_safety/csam_checker.py
 
 ### Platform-specific
   - (Lemmy) A script that goes through a lemmy pict-rs object storage and tries to prevent illegal or unethical content: https://github.com/db0/lemmy-safety
