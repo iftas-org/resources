@@ -60,6 +60,13 @@ If you can't find your country listed, contact INHOPE through their website: htt
 ## Coping with Exposure
  - Content Moderators’ Strategies for Coping with the Stress of Moderating Content Online: https://tsjournal.org/index.php/jots/article/view/91
  - Coping with Child Sexual Abuse Material Exposure: https://www.nctsn.org/resources/coping-with-child-sexual-abuse-material-exposure
+ - 14 Free and Low-Cost Mental Health Resources: https://captainawkward.com/2017/10/03/guest-post-14-free-and-low-cost-mental-health-resources/
+
+For anyone in the US, UK, CA, or IE: Get support from a crisis counselor from the Crisis Text Line 24/7
+ - US: Text HOME to 741741
+ - UK: Text SHOUT to 85258
+ - CA: Text HOME to 741741
+ - IE: Text HOME to 50808
 
 ## Moderation Workflow Harm Reduction
 Consider using a second browser profile for moderation activities.
