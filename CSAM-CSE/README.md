@@ -6,7 +6,7 @@ If you suspect a child is in immediate danger in any way, contact the police imm
 ### Disclaimer
 The information provided on this page does not, and is not intended to, constitute legal advice; instead, all information, content, and materials available on this page are for general informational purposes only.  Information on this page may not constitute the most up-to-date legal or other information.  This page contains links to other third-party Web sites.  Such links are only for the convenience of the reader, user or browser; IFTAS and its members do not recommend or endorse the contents of the third-party sites.
 
-Readers of this page should contact their attorney to obtain advice with respect to any particular legal matter.  No reader, user, or browser of this site should act or refrain from acting on the basis of information on this site without first seeking legal advice from counsel in the relevant jurisdiction.  Only your individual attorney can provide assurances that the information contained herein – and your interpretation of it – is applicable or appropriate to your particular situation.  Use of, and access to, this page or any of the links or resources contained within the site do not create an attorney-client relationship between the reader, user, or browser and Web page authors, contributors, contributing law firms, or IFTAS members and their respective employers. 
+Readers of this page should obtain legal advice with respect to any particular legal matter.  No reader, user, or browser of this site should act or refrain from acting on the basis of information on this site without first seeking legal advice from counsel in the relevant jurisdiction.  Only your individual attorney can provide assurances that the information contained herein – and your interpretation of it – is applicable or appropriate to your particular situation.  Use of, and access to, this page or any of the links or resources contained within the site do not create an attorney-client relationship between the reader, user, or browser and Web page authors, contributors, contributing law firms, or IFTAS members and their respective employers. 
 
 ### User Generated Content
 If you operate an ActivityPub service you are an electronic communications provider and you likely meet the definitions of ESP, ISP, online service provider, and other nomenclature in law that describes electronic communications services. Services that federate with third parties, and/or have their content feeds visible to public users, and/or allow user account creation, are liable for the content they host and display to end users in all jurisdictions.
@@ -18,7 +18,7 @@ If you operate an ActivityPub service you are an electronic communications provi
  - Combating child sexual abuse online: https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/738224/EPRS_BRI(2022)738224_EN.pdf
 
 ## Legal status of fictional pornography depicting minors
-There is much confusion surrounding the legality of fictional CSAM in some territories. Regardless of its legality in a given jurisdiction, if your content is available to end users in a jurisdiction where such content is illegal, you are liable for its availability. 
+Regardless of its legality in a given jurisdiction, if your content is available to end users in a jurisdiction where such content is illegal, you are liable for its availability. 
  - https://en.wikipedia.org/wiki/Legal_status_of_fictional_pornography_depicting_minors
 
 ## National and Extranational Law
@@ -31,7 +31,7 @@ Services exist to compare stored media with hashes of known material, and ML-ass
 If you are an independent provider and would like to use IFTAS detection services, please fill out this Needs Assessment: https://cryptpad.fr/form/#/2/form/view/thnEBypiNlR6qklaQNmWAkoxxeEEJdElpzM7h2ZIwXA/ 
 
 ### CDN
- - Cloudflare CSAM Scanning Tool: https://developers.cloudflare.com/cache/reference/csam-scanning/
+ - Cloudflare CSAM Scanning Tool: https://developers.cloudflare.com/cache/reference/csam-scanning/ 
 
 ### Standalone Platforms
  - Microsoft PhotoDNA: https://www.microsoft.com/en-us/photodna
