@@ -31,7 +31,8 @@ Services exist to compare stored media with hashes of known material, and ML-ass
 If you are an independent provider and would like to use IFTAS detection services, please fill out this Needs Assessment: https://cryptpad.fr/form/#/2/form/view/thnEBypiNlR6qklaQNmWAkoxxeEEJdElpzM7h2ZIwXA/ 
 
 ### CDN
- - Cloudflare CSAM Scanning Tool: https://developers.cloudflare.com/cache/reference/csam-scanning/ 
+ - Cloudflare CSAM Scanning Tool: https://developers.cloudflare.com/cache/reference/csam-scanning/
+ - - Appears to be US-only as it requires NCMEC credentials, which can only be acquired by US entities
 
 ### Standalone Platforms
  - Microsoft PhotoDNA: https://www.microsoft.com/en-us/photodna
