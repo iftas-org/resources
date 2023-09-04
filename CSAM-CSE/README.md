@@ -17,13 +17,13 @@ If you operate an ActivityPub service you are an electronic communications provi
  - A guide to potential liability pitfalls for people running a Mastodon instance: https://denise.dreamwidth.org/91757.html
  - Combating child sexual abuse online: https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/738224/EPRS_BRI(2022)738224_EN.pdf
 
-## Legal status of fictional pornography depicting minors
-Regardless of its legality in a given jurisdiction, if your content is available to end users in a jurisdiction where such content is illegal, you are liable for its availability. 
- - https://en.wikipedia.org/wiki/Legal_status_of_fictional_pornography_depicting_minors
-
 ## National and Extranational Law
 Scroll down in the linked page to review the legality of real/realistic; fictional; and possession in most countries.
  - https://en.wikipedia.org/wiki/Legality_of_child_pornography
+
+### Legal status of fictional pornography depicting minors
+Regardless of its legality in a given jurisdiction, if your content is available to end users in a jurisdiction where such content is illegal, you are liable for its availability. 
+ - https://en.wikipedia.org/wiki/Legal_status_of_fictional_pornography_depicting_minors
 
 ## Detection
 Services exist to compare stored media with hashes of known material, and ML-assisted perceptual matches. For the most part, these are heavily restricted and will require your ability to sign legal agreements with the service providers. 
