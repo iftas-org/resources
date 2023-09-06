@@ -34,18 +34,24 @@ If you are an independent provider and would like to use IFTAS detection service
  - Cloudflare CSAM Scanning Tool: https://developers.cloudflare.com/cache/reference/csam-scanning/
  - - Appears to be US-only as it requires NCMEC credentials, which can only be acquired by US entities
 
-### Standalone Platforms
- - Microsoft PhotoDNA: https://www.microsoft.com/en-us/photodna
- - Thorn Safer: https://get.safer.io/csam-detection-tool-for-child-safety
- - Project Arachnid Shield: https://projectarachnid.ca/en/#shield
- - AI Horde csam_checker: https://github.com/Haidra-Org/horde-safety/blob/main/horde_safety/csam_checker.py
+### Hash and Match APIs
+Generally free of charge, these services allow you to call the API and receive a classification repsonse (e.g. "CSAM, likely CSAM, unknown"). You will likely be required to sign binding agreements.
+ - (Canada) Project Arachnid Shield: https://projectarachnid.ca/en/#shield
+ - (USA) Microsoft PhotoDNA: https://www.microsoft.com/en-us/photodna
+ - (Netherlands) Instand Image Identifier: https://web-iq.com/solutions/instant-image-identifier-to-fight-csam
 
-### Platform-specific
+### Standalone Platforms
+ - Thorn Safer (paid): https://get.safer.io/csam-detection-tool-for-child-safety
+ - Meta PDQ (open source): https://github.com/facebook/ThreatExchange/tree/main/pdq
+ - - Announcement: https://about.fb.com/news/2019/08/open-source-photo-video-matching/
+ - AI Horde csam_checker (open source): https://github.com/Haidra-Org/horde-safety/blob/main/horde_safety/csam_checker.py
+
+### ActivityPub Platform-specific
   - (Lemmy) A script that goes through a lemmy pict-rs object storage and tries to prevent illegal or unethical content: https://github.com/db0/lemmy-safety
   - (Firefish) CloudFlare configuration: https://socialweb.coop/blog/firefish-cloudflare-quickfix-r2-tutorial/
 
 ## Reporting
-You may be legally required to report CSAM and/or CSE to the authorities. In general, your country of operation is what matters, followed by the country in which you host the media. Exactly what needs to be reported, how quickly, and to whom varies depending on the country and type of provider. In general however,  electronic service providers (this includes all ActivityPub services that are not single-user instances) are not required to actively seek out CSAM, but simply to report it when they are made aware of it. They might become aware of the content because of several things. Examples include performing their own voluntary actions to detect CSAM on their services, or as a result of external parties and service users flagging it to them.
+You may be legally required to report CSAM and/or CSE to the authorities. In general the country in which you host the media has jurisidiction. Exactly what needs to be reported, how quickly, and to whom varies depending on the country and type of provider. In general however,  electronic service providers (this includes all ActivityPub services that are not single-user instances) are not required to actively seek out CSAM, but simply to report it when they are made aware of it. They might become aware of the content because of several things. Examples include performing their own voluntary actions to detect CSAM on their services, or as a result of external parties and service users flagging it to them.
 
 To explore your legal requirements, check the Global Legislative Review in this document: https://cdn.icmec.org/wp-content/uploads/2018/12/CSAM-Model-Law-9th-Ed-FINAL-12-3-18-1.pdf
 
