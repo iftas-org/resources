@@ -66,6 +66,8 @@ If you can't find your country listed, contact INHOPE through their website: htt
 
 ## Coping with Exposure
  - Content Moderators’ Strategies for Coping with the Stress of Moderating Content Online: https://tsjournal.org/index.php/jots/article/view/91
+ - Invisible risks exploring the work of content moderators - Combating secondary trauma (Webinar): https://www.youtube.com/watch?v=TpXWTtq52DA
+ - SHIFT Wellness Webinar series: https://www.shiftwellness.org/webinars/
  - Coping with Child Sexual Abuse Material Exposure: https://www.nctsn.org/resources/coping-with-child-sexual-abuse-material-exposure
  - Evidence-based strategies to help you complete your stress cycle: https://ideas.ted.com/emotionally-exhausted-burnout-completing-stress-response-cycle/
  - 14 Free and Low-Cost Mental Health Resources: https://captainawkward.com/2017/10/03/guest-post-14-free-and-low-cost-mental-health-resources/
