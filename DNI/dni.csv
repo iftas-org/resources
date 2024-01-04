@@ -1,10 +1,10 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
-activitypub-troll.cf,suspend,false,false,IFTAS-DNI,false
-activitypub.actor,suspend,false,false,IFTAS-DNI,false
-aethy.com,suspend,false,false,IFTAS-DNI,false
-bae.st,suspend,false,false,IFTAS-DNI,false
-baraag.net,suspend,false,false,IFTAS-DNI,false
-beefyboys.win,suspend,false,false,IFTAS-DNI,false
+activitypub-troll.cf,suspend,false,false,"IFTAS:Service Abuse",false
+activitypub.actor,suspend,false,false,Service Abuse,false
+aethy.com,suspend,false,false,CSE-CSAM,false
+bae.st,suspend,false,false,"IFTAS:Hate Speech;Harassment",false
+baraag.net,suspend,false,false,CSE-CSAM,false
+beefyboys.win,suspend,false,false,Hate Speech,false
 cum.camp,suspend,false,false,IFTAS-DNI,false
 cum.salon,suspend,false,false,IFTAS-DNI,false
 detroitriotcity.com,suspend,false,false,IFTAS-DNI,false
