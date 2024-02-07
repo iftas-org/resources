@@ -1,6 +1,6 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
+activitypub-proxy.cf,suspend,false,false,"IFTAS:Network-Service-Abuse",false
 activitypub-troll.cf,suspend,false,false,"IFTAS:Network-Service-Abuse",false
-activitypub.actor,suspend,false,false,"IFTAS:Network-Service-Abuse",false
 aethy.com,suspend,false,false,"IFTAS:CSE-CSAM",false
 bae.st,suspend,false,false,"IFTAS:Hate-Speech;Harassment",false
 baraag.net,suspend,false,false,"IFTAS:CSE-CSAM",false
