@@ -1,6 +1,8 @@
 This list could be used by client applications to either restrict or flag for human review. Apps and account creation workflows could choose to prohibit these usernames, or limit these usernames from interacting publicly until the account has been approved. 
 
-This list should not be used as a general language suppressant in user-generated content, and should likely not be used for partial matching.
+This list can also be considered for hashtag constraints, disallowing the use of these words as hashtags.
+
+This list should not be used as a general language suppressant in user-generated content, and should not be used for partial matching.
 
 While it is clear no list can adequately safeguard community members by itself, this list should be regarded as one very basic, required step in a multi-faceted approach. This is intended to be a minimum necessary list. 
 
@@ -14,6 +16,7 @@ References:
  - https://www.timesofisrael.com/kike-hernandezs-name-can-read-like-an-anti-jewish-slur-heres-how-to-fix-that/
  - https://en.wikipedia.org/wiki/Reappropriation
 
+```
 abbo
 abo
 beaner
@@ -49,3 +52,4 @@ spaz
 spic
 wog
 yid
+```
