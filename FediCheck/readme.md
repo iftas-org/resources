@@ -1,4 +1,4 @@
-![fedicheck](https://github.com/jazmichaelking/151/assets/3419832/532cd44c-d0b2-4a03-96c7-f919812067c9)
+![fedicheck](https://github.com/iftas-org/resources/assets/3419832/554fdb76-12b8-44f3-9e3f-703ed3daddc9)
 
 # IFTAS FediCheck
 *Denylist Management by IFTAS*
@@ -15,7 +15,7 @@ The CARIAD version of FediCheck is intended for new administrators with few or n
 
 In short, CARIAD is a curated list of domains that are recommended for blocking or limiting by aggregating the actions taken by many of the largest ActivityPub services, combined with the IFTAS [DNI list](https://github.com/iftas-org/resources/tree/main/DNI).
 
-<blockquote><img src="https://github.com/jazmichaelking/151/assets/3419832/5e89260e-7280-4f99-913b-a7dc73fafdd4" /></blockquote>
+<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/5d5396f5-b95a-454b-a1be-6d0b36b84800" /></blockquote>
 
 ### Example Actions
 
@@ -56,7 +56,7 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <p>FediCheck will then read the existing domain blocks on the remote server and store those to the FediCheck account, to ensure the FediCheck service does not overwrite the existing blocks.</p>
 </td>
 <td width="40%" valign="top">
-<blockquote><img src="https://github.com/jazmichaelking/151/assets/3419832/ce5347c6-650c-4c04-a886-01ddb4ccb647" /></blockquote>
+<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/e2b1e72f-9628-4b76-af0d-36144655c1ac" /></blockquote>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 </ol>
 </td>
 <td width="40%" valign="top">
-<blockquote><img src="https://github.com/jazmichaelking/151/assets/3419832/bbd0718c-2f69-4871-83a0-f6b582098dca" /></blockquote>
+<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/aeb954c5-451e-47e0-87bb-bdee77bde04b" /></blockquote>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <p>FediCheck monitors the CARIAD database for domains being added, modified (e.g. from Suspend to Silence) or removed, those changes are then automatically reflected on your server. The database is monitored throughout the day, and changes are queued for delivery to each subscribed server. In general, you should be no more than 20 minutes behind.</p>
 </td>
 <td width="40%" valign="top">
-<blockquote><img src="https://github.com/jazmichaelking/151/assets/3419832/b004eff2-e008-4cf4-ab79-0d8bb4a95081" /></blockquote>
+<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/a0e015c3-e2ca-4982-9422-7ac850843b93" /></blockquote>
 </td>
 </tr>
 <tr>
@@ -94,9 +94,7 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <p>This may include seeing a managed domain that FediCheck would remove, in which case you can unblock it and add it your Locked Domains</p>
 </td>
 <td width="40%" valign="top">
-<blockquote><img src="https://github.com/jazmichaelking/151/assets/3419832/b0919fad-ee5d-4059-b105-a4e96bcfed54" /></blockquote>
-<blockquote><img src="https://github.com/jazmichaelking/151/assets/3419832/3bb9b7ae-08da-4925-8c91-4eefe95186fb)" /></blockquote>
-
+<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/f58df39c-d930-4b5d-ab70-2a691e5a00c0" /></blockquote>
 </td>
 </tr>
 <tr>
@@ -105,8 +103,7 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <p>You can allow FediCheck to manage any domain you added to your server. This transfers management of that domain from you to FediCheck.</p>
 </td>
 <td width="40%" valign="top">
-<blockquote><img src="https://github.com/jazmichaelking/151/assets/3419832/ed84f71e-edeb-45e4-97f5-b94a0cc1fbc7" />
-
+<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/45e1945f-c788-401a-a7a6-05d7dc6693d9" />
 </td>
 </tr>
 </table>
