@@ -4,7 +4,7 @@
 
 80.csv - 80% or more of sources have actioned the domain
 
-IFTAS DNI domains are always included, regardless of source agreement
+[IFTAS DNI domains](https://github.com/iftas-org/resources/blob/main/DNI/dni.csv) are always included, regardless of source agreement
 
 The CARIAD project aims to maintain a healthy digital ecosystem by helping ActivityPub service providers to classify or block domains exhibiting harmful behavior. Our commitment to freedom of association means everyone is free to block anyone, at any time, for any reason. ActivityPub is predominantly a volunteer-operated messaging service, and as such, no-one can be forced to accept your content.
 
