@@ -8,9 +8,9 @@ The CARIAD list is available via FediCheck. it is not intended for import as a C
 
 We support fair practices and offer a process for delisting domains that have addressed the reasons for their listing. An audit file is publicly available for review. 
 
-In order to delist a domain, a request must be sent from an address at the listed domain (eg: abuse@listed-domain.tld) to our contact address below, with evidence that the issue has been resolved. We may verify the address by sending back a confirmation message asking for a response.
+In order to delist a domain, a request must be sent from an address at the listed domain (eg: ``abuse@listed-domain.tld``) to our contact address below, with evidence that the issue has been resolved. We may verify the address by sending back a confirmation message asking for a response.
 
-Delisting requests must be sent to the delisting email address, written in English language, in text form: delist-cariad (a) iftas (.) org
+Delisting requests must be sent to the delisting email address, written in English language, in plaint text form: delist-cariad (a) iftas (.) org
 
 Requests are typically investigated and processed within three business days.
 
