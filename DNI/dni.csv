@@ -15,11 +15,9 @@ freespeechextremist.com,suspend,false,false,"IFTAS:Hate-Speech;Harassment;Disinf
 h5q.net,suspend,false,false,"IFTAS:CSE-CSAM",false
 kiwifarms.cc,suspend,false,false,"IFTAS:Hate-Speech;Harassment",false
 kiwifarms.is,suspend,false,false,"IFTAS:Hate-Speech;Harassment",false
-kiwifarms.hk,suspend,false,false,"IFTAS:Hate-Speech;Harassment",false
 misskey-forkbomb.cf,suspend,false,false,"IFTAS:Network-Service-Abuse",false
 neomobius.com,suspend,false,false,"IFTAS:CSE-CSAM",false
 nicecrew.digital,suspend,false,false,"IFTAS:Hate-Speech;Brigading;Harassment",false
-niggers.auction,suspend,false,false,"IFTAS:Hate-Speech",false
 obo.sh,suspend,false,false,"IFTAS:CSE-CSAM",false
 pawoo.net,suspend,true,false,"IFTAS:CSE-CSAM",false
 poa.st,suspend,false,false,"IFTAS:Hate-Speech;Harassment",false
@@ -32,5 +30,4 @@ ryona.agency,suspend,false,false,"IFTAS:Troll;Harassment",false
 shitpost.cloud,suspend,false,false,"IFTAS:Hate-Speech;Harassment",false
 shitposter.club,suspend,false,false,"IFTAS:Hate-Speech;Explicit-Content",false
 twi.social,suspend,false,false,"IFTAS:CSE-CSAM",false
-varishangout.com,suspend,false,false,"IFTAS:CSE-CSAM",false
 varishangout.net,suspend,false,false,"IFTAS:CSE-CSAM;Hate-Speech;Harassment",false
