@@ -3,17 +3,17 @@
 # IFTAS FediCheck
 *Denylist Management by IFTAS*
 
- - Easily compare your existing blocks with a trusted list
- - Automate addition and removal of domains to your Mastodon server
- - Using the IFTAS CARIAD database, quickly defederate from "the worst of the worst"
+ - Easily compare your existing blocks with a third-party list or lists
+ - Automate addition and removal of domains to your server
  - Does not change the blocks you already have
 
 ## Overview
-FediCheck is a Web service from <A href="https://about.iftas.org/">IFTAS</a> that allows service providers to review and subscribe to the IFTAS <a href="https://github.com/iftas-org/resources/tree/main/CARIAD">CARIAD database</a> for automated updates. Future versions will accommodate alternative sources such as a trusted server, community of servers, a database, or flat file.
 
-The CARIAD version of FediCheck is intended for new administrators with few or no existing blocks in place seeking a minimum necessary denylist. Existing services that have denylists in place may benefit from CARIAD to augment their existing federation policy by subscribing to only the new domains that appear in the CARIAD database from time to time.
+FediCheck is a Web service from <A href="https://about.iftas.org/">IFTAS</a> that allows service providers to review and subscribe to external sources such as the IFTAS <a href="https://github.com/iftas-org/resources/tree/main/CARIAD">CARIAD database</a> for automated updates. 
 
-In short, CARIAD is a curated list of domains that are recommended for blocking or limiting by aggregating the actions taken by many of the largest ActivityPub services, combined with the IFTAS [DNI list](https://github.com/iftas-org/resources/tree/main/DNI).
+Future versions will accommodate alternative sources such as a trusted server, community of servers, a database, or flat files.
+
+The CARIAD version of FediCheck is a pilot example of FediCheck, intended for new Mastodon administrators with few or no existing blocks in place seeking a minimum necessary denylist. CARIAD is a curated list of domains that are recommended for blocking or limiting by aggregating the actions taken by many of the largest ActivityPub services, combined with the IFTAS [DNI list](https://github.com/iftas-org/resources/tree/main/DNI).
 
 <blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/5d5396f5-b95a-454b-a1be-6d0b36b84800" /></blockquote>
 
