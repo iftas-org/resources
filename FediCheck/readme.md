@@ -131,10 +131,11 @@ Provide additional opt-in features to include trusted sources for malicious emai
 ### Multi-use
 While the initial version is for use by CARIAD, the intent is to allow FediCheck to operate using any of:
 
- - An upstream trusted server or group of servers (“I want to block what that server/group of servers blocks”)
- - A public list or collection of lists (“I want to sync with the list(s) at denylist.example/list.csv”)
- - A third-party data service
- - Any mixture of the above
+ - An upstream trusted server or group of servers (“I want to block what that server/group of servers blocks”),
+ - A public list or collection of lists (“I want to sync with the list(s) at denylist.example/list.csv”),
+ - A "shopping list" of domains by [label](https://github.com/iftas-org/resources/tree/main/LABELS),
+ - A third-party data service,
+ - Any mixture of the above.
 
 Subject to interest, FediCheck could be made available for commonly used services such as broadly-adopted lists, Fediseer, The Bad Space, or a sentinel server.
 
