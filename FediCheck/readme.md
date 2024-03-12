@@ -7,6 +7,8 @@
  - Automate addition and removal of domains to your server
  - Does not change the blocks you already have
 
+FediCheck is currently in private beta. To join, [please apply for beta access](https://cryptpad.fr/form/#/2/form/view/E2yxXhoruIVzj4EGGdDIKintwBVFYsq9Srl4GhYeXwU/).
+
 ## Overview
 
 FediCheck is a Web service from <A href="https://about.iftas.org/">IFTAS</a> that allows service providers to review and subscribe to external sources such as the IFTAS <a href="https://github.com/iftas-org/resources/tree/main/CARIAD">CARIAD database</a> for automated updates. 
