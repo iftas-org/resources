@@ -91,18 +91,8 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 </tr>
 <tr>
 <td width="60%" valign="top">
-<h3>Lock Domains</h3>
-<p>You can lock any domain suggested by FediCheck. This transfers management of that domain from FediCheck to you, and FediCheck will no longer make changes to that domain.</p>
-<p>This may include seeing a managed domain that FediCheck would remove, in which case you can unblock it and add it your Locked Domains</p>
-</td>
-<td width="40%" valign="top">
-<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/f58df39c-d930-4b5d-ab70-2a691e5a00c0" /></blockquote>
-</td>
-</tr>
-<tr>
-<td width="60%" valign="top">
-<h3>Manage Domains</h3>
-<p>You can allow FediCheck to manage any domain you added to your server. This transfers management of that domain from you to FediCheck.</p>
+<h3>Manage and Unmanage Domains</h3>
+<p>You can allow FediCheck to manage any domain you added to your server manually. This transfers management of that domain from you to FediCheck. Conversely, you can Unmanage any domain FediCheck adds to your server, which will stop FediCheck from managing that domain.</p>
 </td>
 <td width="40%" valign="top">
 <blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/45e1945f-c788-401a-a7a6-05d7dc6693d9" />
