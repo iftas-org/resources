@@ -34,11 +34,11 @@ FediCheck requires a Mastodon account with the relevant permissions. Mastodon AP
  - ```admin:read:domain_blocks``` - to see what blocks are already in place
  - ```admin:write:domain_blocks``` - to create and update blocks from FediCheck
 
-We recommend service administrators create a dedicated IFTAS role account with only the minimum necessary permissions, and use that account to sign in to FediCheck
+We recommend service administrators create a dedicated IFTAS role account with only the minimum necessary permissions, and use that account to sign in to FediCheck.
 
 If creating a new account, consider removing from search, marking as unattended; and enabling multi-factor authentication. 
 
-Multiple accounts are supported, but only one account (of your choosing) will be used for any API push activity. 
+Multiple accounts are supported, but only one account (of your choosing) will be used for writing blocks to your server. 
 
 While IFTAS employs standard security practices, it is not advised to use an account with full administrative permissions for this (or any other) third-party application.
 
@@ -54,7 +54,7 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <li>Click "Login"</li>
 </ol>
 <p>FediCheck will request the necessary permissions via OAuth. Once accepted, your FediCheck account will be created.</p>
-<p>FediCheck will then read the existing domain blocks on the remote server and store those to the FediCheck account, to ensure the FediCheck service does not overwrite the existing blocks.</p>
+<p>FediCheck will then read the existing domain blocks on your server and store those to the FediCheck account, to ensure the FediCheck service does not overwrite your existing blocks.</p>
 </td>
 <td width="40%" valign="top">
 <blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/e2b1e72f-9628-4b76-af0d-36144655c1ac" /></blockquote>
@@ -71,7 +71,7 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 </ol>
 </td>
 <td width="40%" valign="top">
-<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/aeb954c5-451e-47e0-87bb-bdee77bde04b" /></blockquote>
+<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/d72562b5-e7bc-4d49-92ce-db8408d2838a" /></blockquote>
 </td>
 </tr>
 <tr>
