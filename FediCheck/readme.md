@@ -17,7 +17,7 @@ Future versions will accommodate alternative sources such as a trusted server, c
 
 The CARIAD version of FediCheck is a pilot example of FediCheck, intended for new Mastodon administrators with few or no existing blocks in place seeking a minimum necessary denylist. CARIAD is a curated list of domains that are recommended for blocking or limiting by aggregating the actions taken by many of the largest ActivityPub services, combined with the IFTAS [DNI list](https://github.com/iftas-org/resources/tree/main/DNI).
 
-<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/5d5396f5-b95a-454b-a1be-6d0b36b84800" /></blockquote>
+<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/57315a9e-48d4-4320-8fcf-561de701273d" /></blockquote>
 
 ### Example Actions
 
