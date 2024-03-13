@@ -62,12 +62,12 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 </tr>
 <tr>
 <td width="60%" valign="top">
-<h3>Review Denylist</h3>
+<h3>Review Denylists</h3>
 <ol>
 <li>Select each tab to review the various lists by threshold. Higher thresholds of agreement will block fewer domains.</li>
-<li>List view will show a selection of public comments from source domains, as well as <a href="https://github.com/iftas-org/resources/tree/main/LABELS">IFTAS labels</a> if IFTAS has labelled the domain e.g. <code>IFTAS:Network-Service-Abuse</code>. Public comments are never copied or transmitted to your server.</li>
-<li>At any time, download the currently viewed list to obtain a CSV file for manual import.</li>
-<li>Select a denylist from the dropdown and click "Save" to review which domains would be added or removed if that version were to be subscribed. FediCheck will never remove domains already managed by the server administrator.</li>
+<li>List view will show a selection of comments from sources and/or [IFTAS labels](https://github.com/iftas-org/resources/tree/main/LABELS). Comments and labels are never copied or transmitted to your server.</li>
+<li>Select any visible denylist using the "Subscribe to this list" button. This will disable any current automated updates.</li>
+<li>Review which domains will be added or removed if that version were to be subscribed. (FediCheck will never remove domains already managed by you.)</li>
 </ol>
 </td>
 <td width="40%" valign="top">
@@ -78,11 +78,11 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <td width="60%" valign="top">
 <h3>Subscribe to Denylist</h3>
 <ol>
-<li>Enable Subscription to allow automated updates. This can be disabled at any time, and will automatically disable if a new version of the list is selected.</li>
+<li>Enable Subscription to allow automated updates. This can be disabled at any time. Subscription is disabled if a new version of the list is selected.</li>
 <li>Once enabled, the new blocks are added to the Mastodon server, with the private comment <code>IFTAS FediCheck updated yyyy-mm-dd hh:mm:ss UTC</code> - this will be visible in your Mastodon dashboard.</li>
 <li>FediCheck does not add public comments to your server.</li>
 </ol>
-<p>FediCheck monitors the CARIAD database for domains being added, modified (e.g. from Suspend to Silence) or removed, those changes are then automatically reflected on your server. The database is monitored throughout the day, and changes are queued for delivery to each subscribed server. In general, you should be no more than 20 minutes behind.</p>
+<p>FediCheck monitors the CARIAD database for domains being added, modified (e.g. from Suspend to Silence) or removed. Those changes are then automatically reflected on your server. In general, you should be no more than 20 minutes behind.</p>
 </td>
 <td width="40%" valign="top">
 <blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/a0e015c3-e2ca-4982-9422-7ac850843b93" /></blockquote>
