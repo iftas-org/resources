@@ -78,14 +78,14 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <td width="60%" valign="top">
 <h3>Subscribe to Denylist</h3>
 <ol>
-<li>Enable Subscription to allow automated updates. This can be disabled at any time. Subscription is disabled if a new version of the list is selected.</li>
+<li>Enable Subscription to allow automated updates. This can be disabled at any time. Please note: Subscription is disabled if a new version of the list is selected.</li>
 <li>Once enabled, the new blocks are added to the Mastodon server, with the private comment <code>IFTAS FediCheck updated yyyy-mm-dd hh:mm:ss UTC</code> - this will be visible in your Mastodon dashboard.</li>
 <li>FediCheck does not add public comments to your server.</li>
 </ol>
 <p>FediCheck monitors the CARIAD database for domains being added, modified (e.g. from Suspend to Silence) or removed. Those changes are then automatically reflected on your server. In general, you should be no more than 20 minutes behind.</p>
 </td>
 <td width="40%" valign="top">
-<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/a0e015c3-e2ca-4982-9422-7ac850843b93" /></blockquote>
+<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/2edbef7a-334a-4b6d-9c27-be1344c00bec" /></blockquote>
 </td>
 </tr>
 <tr>
