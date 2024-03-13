@@ -91,12 +91,9 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <tr>
 <td width="60%" valign="top">
 <h3>Manage and Unmanage Domains</h3>
-<p>You can allow FediCheck to manage any domain you added to your server manually. This transfers management of that domain from you to FediCheck. Please note, this may allow FediCheck to completely remove a block you placed on your server.</p>
-<p>Conversely, you can Unmanage any domain FediCheck adds to your server, transferring control to you.</p>
+<p>You can Unmanage any domain FediCheck adds to your server, transferring control to you.</p>
 </td>
 <td width="40%" valign="top">
-<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/d1b6e6a0-b8cc-4058-82cc-aad31d35714d" /></blockquote>
-<br />
 <blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/71eb2544-5c9c-42c9-bf9c-7157f0550940" /></blockquote>
 </td>
 </tr>
