@@ -91,11 +91,11 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <tr>
 <td width="60%" valign="top">
 <h3>Manage and Unmanage Domains</h3>
-<p>You can allow FediCheck to manage any domain you added to your server manually. This transfers management of that domain from you to FediCheck.</p>
-<p>Conversely, you can Unmanage any domain FediCheck adds to your server, which will stop FediCheck from managing that domain.</p>
+<p>You can allow FediCheck to manage any domain you added to your server manually. This transfers management of that domain from you to FediCheck. Please note, this may allow FediCheck to completely remove a block you placed on your server.</p>
+<p>Conversely, you can Unmanage any domain FediCheck adds to your server, transferring control to you.</p>
 </td>
 <td width="40%" valign="top">
- <blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/d1b6e6a0-b8cc-4058-82cc-aad31d35714d" /></blockquote>
+<blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/d1b6e6a0-b8cc-4058-82cc-aad31d35714d" /></blockquote>
 <br />
 <blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/71eb2544-5c9c-42c9-bf9c-7157f0550940" /></blockquote>
 </td>
@@ -108,9 +108,9 @@ At any time, you can specify which list is subscribed, or disable updates.
 Once a different version has been selected, you will be presented with the number of domains that will be added or removed based on the selection, and the service will cease automatically updating. You must re-enable the updates by clicking “Enable Subscription”. 
 
 
-### Data Removal
+### Reset Options
 
-Remove all Blocks - Removes all FediCheck-managed entries from your server server: this removes only the listings placed in the server by FediCheck, exncluding “Locked Domains”.
+Remove all Blocks - Removes all FediCheck-managed entries from your server. This removes the listings placed in the server by FediCheck and currently managed by FediCheck.
 
 Purge All Data and Log Out - Revokes your account credentials, your server token, and purges all your data stored on FediCheck. Note: This does **not** remove any domain blocks - you may wish to run the Remove All Blocks action first.
 
@@ -122,7 +122,7 @@ Purge All Data and Log Out - Revokes your account credentials, your server token
 ## Roadmap
 
 ### Relationship Checking
-The FediCheck CARIAD version is intended for use by new administrators, and it is not anticipated that relationship checks are required. Future versions will enable this functionality, which will require additional API permissions.
+The FediCheck CARIAD version is intended for use by new administrators, and relationship checks are not enabled at this time. Future versions will enable this functionality, which will require additional API permissions.
 
 ### Multi-platform
 FediCheck should be able to operate denylists for any of the major platforms that expose domain blocks via API. 
