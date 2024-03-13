@@ -49,7 +49,6 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <td width="60%" valign="top">
 <h3>Create Account</h3>
 <ol>
-<li>Visit LINK TO FEDICHECK</li>
 <li>Enter the domain you want to manage</li>
 <li>Select "Remember this server" if you want to manage one domain</li>
 <li>Click "Login"</li>
