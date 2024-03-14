@@ -45,7 +45,7 @@ Violent-Threat
 Where an unauthorized user gains control of a user account, through means such as hacking, phishing or buying leaked credentials.
 
 ## APT
-Advanced Persistent Threat - APT actors are well-resourced and engage in sophisticated malicious cyber activity that is targeted and aimed at prolonged network/system intrusion. APT objectives could include espionage, data theft, and network/system disruption or destruction. Organizations within the cybersecurity community conducting APT research assign names/numbers to APTs upon discovery. Because more than one organization engages in APT research and there may be overlaps among APTs, there can be multiple names for a single APT. For examples of APT listings, see [MITRE ATT&CK](https://attack.mitre.org/groups/) and [Mandiant’s APT Groups](https://www.mandiant.com/resources/insights/apt-groups).
+Advanced Persistent Threat - APT actors are well-resourced and engage in sophisticated malicious cyber activity that is targeted and aimed at prolonged network/system intrusion. APT objectives could include espionage, data theft, and network/system disruption or destruction.
 
 ## Astroturfing
 Organized activity intended to create the deceptive appearance of broad, authentic grassroots support or opposition to a given cause or organization, when in reality the activity is being motivated, funded or coordinated by a single or small number of obscured sources.
@@ -56,7 +56,7 @@ Coordinated, often pre-planned, mass online activity to affect a piece of conten
 ## Catfishing
 Where someone creates a fake persona on an online service, such as social media or a dating application, and forms a relationship with someone who believes the persona to be real.
 
-## Content-and Conduct-Related Risk
+## Content- and Conduct-Related Risk
 The possibility of certain illegal, dangerous, or otherwise harmful content or behavior, including risks to human rights, which are prohibited by relevant policies and terms of service.
 
 ## Coordinated-Inauthentic-Behaviour
@@ -105,7 +105,7 @@ Content farming involves creating online content for the sole or primary purpose
 Statements or images that celebrate past or hypothetical future acts of violence.
 
 ## Hate-Speech
-Abusive, hateful, or threatening content or conduct that expresses prejudice against a group or a person due to membership in a group, which may be based on legally protected characteristics, such as religion, ethnicity, nationality, race, gender identification, sexual orientation, or other characteristics.
+Abusive, hateful, or threatening content or conduct that expresses prejudice against a group or a person due to membership in a group, which may be based on legally protected characteristics, such as religion, ethnicity, nationality, race, gender identification, sexual orientation, or other characteristics. 
 
 ## Impersonation
 Online impersonation most often involves the creation of an account profile that uses someone else’s name, image, likeness or other characteristics without that person’s permission to create a false or misleading impression that the account is controlled by them.
