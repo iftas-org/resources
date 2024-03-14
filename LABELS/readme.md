@@ -56,7 +56,7 @@ Coordinated, often pre-planned, mass online activity to affect a piece of conten
 ## Catfishing
 Where someone creates a fake persona on an online service, such as social media or a dating application, and forms a relationship with someone who believes the persona to be real.
 
-## Content-and-Conduct-Related-Risk
+## Content-and Conduct-Related Risk
 The possibility of certain illegal, dangerous, or otherwise harmful content or behavior, including risks to human rights, which are prohibited by relevant policies and terms of service.
 
 ## Coordinated-Inauthentic-Behaviour
