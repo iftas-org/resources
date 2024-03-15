@@ -1,3 +1,5 @@
+_The day one denylist for new admins_
+
 The CARIAD project observes the domain blocks in place on some of the largest and most active service providers, and observes where a majority of those servers exhibit the same blocks. After manual review, domains are added to the list, alongside IFTAS' [DNI list](https://github.com/iftas-org/resources/blob/main/DNI/dni.csv).
 
 CARIAD is intended to provide new service providers a basic, first step in defederating the domains already widely defederated by existing service providers. 
