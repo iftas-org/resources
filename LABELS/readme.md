@@ -75,7 +75,7 @@ Where a bad actor or group will organize a campaign of abuse (such as harassment
 Child Sexual Abuse Material - Imagery or videos which show a person who is a child and engaged in or is depicted as being engaged in explicit sexual activity. 
 
 ### CG-CSAM
-Optional label for Computer-Genreated CSAM
+Optional label for Computer-Generated CSAM
 
 ### SG-CSAM
 Optional label for Self-Generated CSAM
