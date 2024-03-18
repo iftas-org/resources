@@ -25,7 +25,6 @@ Hate-Speech
 Impersonation
 Incitement
 Misinformation
-Abuse
 NCII
 Online-Harassment
 Phishing
