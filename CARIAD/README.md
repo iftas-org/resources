@@ -6,7 +6,7 @@ The CARIAD project observes the domain blocks in place on some of the largest an
 
 CARIAD is intended to provide new service providers a basic, first step in defederating the domains already widely defederated by existing service providers. 
 
-For more information see FINAL VERSION LINK HERE 
+For more information see the [policy specification](https://docs.google.com/document/d/1hmGNHqifYGRwk1qsWUaCI-VDHw3yMvjVoy-c_8K4e9c/edit?usp=sharing). 
 
 The CARIAD list is available via FediCheck. it is not intended for import as a CSV. FediCheck users can review observed reasons and IFTAS labels where available.
 
