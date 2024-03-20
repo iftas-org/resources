@@ -55,7 +55,7 @@ Coordinated, often pre-planned, mass online activity to affect a piece of conten
 ## Catfishing
 Where someone creates a fake persona on an online service, such as social media or a dating application, and forms a relationship with someone who believes the persona to be real.
 
-## Content- and Conduct-Related Risk
+## Content-and-Conduct-Related-Risk
 The possibility of certain illegal, dangerous, or otherwise harmful content or behavior, including risks to human rights, which are prohibited by relevant policies and terms of service.
 
 ## Coordinated-Inauthentic-Behaviour
@@ -74,13 +74,13 @@ Where a bad actor or group will organize a campaign of abuse (such as harassment
 Child Sexual Abuse Material - Imagery or videos which show a person who is a child and engaged in or is depicted as being engaged in explicit sexual activity. 
 
 ### CG-CSAM
-Optional label for Computer-Generated CSAM
+Computer-Generated CSAM.
 
 ### SG-CSAM
-Optional label for Self-Generated CSAM
+Self-Generated CSAM.
 
 ## CSEA
-Child Sexual Exploitation and Abuse - A broad category that encompasses both material depicting child sexual abuse, other sexualised content depicting children, and includes grooming.
+Child Sexual Exploitation and Abuse - A broad category that encompasses both the sharing of material depicting child sexual abuse, other sexualized content depicting children, and includes grooming.
 
 ## Defamation
 A legal claim based on asserting something about a person that is shared with others and which causes harm to the reputation of the statement’s subject (the legal elements and applicable defenses vary by jurisdiction).
@@ -95,7 +95,7 @@ False information that is spread intentionally and maliciously to create confusi
 The act of disclosing someone’s personal, non-public information — such as a real name, home address, phone number or any other data that could be used to identify the individual — in an online forum or other public place without the person’s consent.
 
 ## Explicit-Content
-Online content describing or depicting things of an intimate nature. Depending on cultural context, this may include nudity, parts of the body not generally exposed in public, sexually explicit material, or depictions of sex acts. May also include offensive, graphic, or violent content, or association with content or commerce involving gambling, sex, medical procedures, or recreational drug use
+Online content describing or depicting things of an intimate nature. Depending on cultural context, this may include nudity, parts of the body not generally exposed in public, sexually explicit material, or depictions of sex acts. May also include offensive, graphic, or violent content, or association with content or commerce involving gambling, sex, medical procedures, or recreational drug use.
 
 ## Farming
 Content farming involves creating online content for the sole or primary purpose of attracting page views and increasing advertising revenue, rather than out of a desire to express or communicate any particular message.
@@ -116,12 +116,10 @@ To encourage violence or violent sentiment against a person or group.
 False information that is spread unintentionally and usually not maliciously, which may nonetheless mislead or increase likelihood of harm to persons.
 
 ## NCII
-Non-Consensual Intimate Imagery - Non-consensual image sharing, or non-consensual intimate image sharing (also called “non-consensual explicit imagery” or colloquially called “revenge porn”), refers to the act or threat of creating, publishing or sharing an intimate image or video without the consent of the individuals visible in it. What constitutes an intimate image will vary by cultural context. This could include nudity, private activity of various kinds, or showing someone without attire of religious or cultural significance the person would normally wear in public. The imagery may have been created by or with the consent of the individuals shown, such as in the context of an intimate relationship, or created without consent through the use of hidden cameras or other surveillance methods. Similarly, it may have been obtained with or without consent to possess it, or consent to possess it may have been revoked. It should be noted that non-consensual intimate imagery is distinct from the unlicensed sharing of copyrighted, commercially-produced adult
-content.
+Non-Consensual Intimate Imagery - Non-consensual image sharing, or non-consensual intimate image sharing (also called “non-consensual explicit imagery” or colloquially called “revenge porn”), refers to the act or threat of creating, publishing or sharing an intimate image or video without the consent of the individuals visible in it. What constitutes an intimate image will vary by cultural context. This could include nudity, private activity of various kinds, or showing someone without attire of religious or cultural significance the person would normally wear in public. The imagery may have been created by or with the consent of the individuals shown, such as in the context of an intimate relationship, or created without consent through the use of hidden cameras or other surveillance methods. Similarly, it may have been obtained with or without consent to possess it, or consent to possess it may have been revoked. It should be noted that non-consensual intimate imagery is distinct from the unlicensed sharing of copyrighted, commercially-produced adult content.
 
-## Online Harassment
-Unsolicited repeated behavior against another person, usually with the intent to intimidate or cause emotional distress. Online harassment may take the form of one abuser targeting a person or group with sustained negative contact, or it may take the form of many
-distinct individuals targeting an individual or group.
+## Online-Harassment
+Unsolicited repeated behavior against another person, usually with the intent to intimidate or cause emotional distress. Online harassment may take the form of one abuser targeting a person or group with sustained negative contact, or it may take the form of many distinct individuals targeting an individual or group.
 
 ## Phishing
 The fraudulent practice of sending emails or other messages purporting to be from reputable sources in order to induce individuals to reveal personal information, such as passwords and credit card numbers.
@@ -129,8 +127,8 @@ The fraudulent practice of sending emails or other messages purporting to be fro
 ## Sock-Puppets
 Multiple, fake accounts used to create an illusion of consensus or popularity, such as by liking or reposting content in order to amplify it.
 
-## Service Abuse
-Use of a product or service in a way that violates the provider’s terms of service, community guidelines, or other rules, generally because it creates or increases the risk of harm to a person or group or tends to undermine the purpose, function or quality of the service. 
+## Service-Abuse
+Use of a network, product or service in a way that violates the provider’s terms of service, community guidelines, or other rules, generally because it creates or increases the risk of harm to a person or group or tends to undermine the purpose, function or quality of the service. 
 
 ## Sextortion
 Where a perpetrator threatens to expose sexually compromising information (such as sexually explicit private images or videos of the victim) unless the victim meets certain demands.
@@ -139,8 +137,7 @@ Where a perpetrator threatens to expose sexually compromising information (such 
 Unsolicited, low-quality communications, often (but not necessarily) high-volume commercial solicitations, sent through a range of electronic media, including email, messaging, and social media.
 
 ## Synthetic-Media
-Content which has been generated or manipulated to appear as though based on reality, when it is in fact artificial. Also referred to as manipulated media. Synthetic media may sometimes (but not always) be generated through
-algorithmic processes (such as artificial intelligence or machine learning). A deepfake is a form of synthetic media where an image or recording is altered to misrepresent someone doing or saying something that was not done or said.
+Content which has been generated or manipulated to appear as though based on reality, when it is in fact artificial. Also referred to as manipulated media. Synthetic media may sometimes (but not always) be generated through algorithmic processes (such as artificial intelligence or machine learning). A deepfake is a form of synthetic media where an image or recording is altered to misrepresent someone doing or saying something that was not done or said.
 
 ## Troll
 A user who intentionally provokes hostility or confusion online. A troll may make valid points, but generally does so with the intention to irritate.
