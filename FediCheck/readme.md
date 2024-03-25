@@ -49,9 +49,9 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <td width="60%" valign="top">
 <h3>Create Account</h3>
 <ol>
-<li>Enter the domain you want to manage</li>
-<li>Select "Remember this server" if you want to manage one domain</li>
-<li>Click "Login"</li>
+<li>Enter the domain you want to manage.</li>
+<li>Select "Remember this server" if you plan to manage only one domain.</li>
+<li>Click "Login".</li>
 </ol>
 <p>FediCheck will request the necessary permissions via OAuth. Once accepted, your FediCheck account will be created.</p>
 <p>FediCheck will then read the existing domain blocks on your server and store those to the FediCheck account, to ensure the FediCheck service does not overwrite your existing blocks.</p>
@@ -65,9 +65,9 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <h3>Review Denylists</h3>
 <ol>
 <li>Select each tab to review the various lists by threshold. Higher thresholds of agreement will block fewer domains.</li>
-<li>List view will show a selection of comments from sources and/or [IFTAS labels](https://github.com/iftas-org/resources/tree/main/LABELS). Comments and labels are never copied or transmitted to your server.</li>
-<li>Select any visible denylist using the "Subscribe to this list" button. This will disable any current automated updates.</li>
-<li>Review which domains will be added or removed if that version were to be subscribed. (FediCheck will never remove domains already managed by you.)</li>
+<li>List view will show a selection of comments from sources and/or <a href="https://github.com/iftas-org/resources/tree/main/LABELS">IFTAS labels</a>. Comments and labels are for your review only, and are never transmitted to your server.</li>
+<li>Select any visible denylist using the "Subscribe to this list" button. Note: this will disable any current automated updates.</li>
+<li>Review which domains will be added or removed once you enable the subscription. FediCheck will never remove domains already managed by you.</li>
 </ol>
 </td>
 <td width="40%" valign="top">
@@ -92,6 +92,7 @@ While IFTAS employs standard security practices, it is not advised to use an acc
 <td width="60%" valign="top">
 <h3>Unmanage Domains</h3>
 <p>You can Unmanage any domain FediCheck adds to your server, transferring control to you. This removes FediCheck's ability to retract the domain block in the future.</p>
+<p>If you manually edit a domain policy severity for a domain FediCheck placed on your server, or if you manually remove a domain FediCheck placed on your server, FediCheck will note this and cease managing that domain. This removes FediCheck's ability to rewrite the domain block in the future.</p>
 </td>
 <td width="40%" valign="top">
 <blockquote><img src="https://github.com/iftas-org/resources/assets/3419832/71eb2544-5c9c-42c9-bf9c-7157f0550940" /></blockquote>
@@ -109,7 +110,7 @@ Once a different version has been selected, you will be presented with the numbe
 
 Remove all Blocks - Removes all FediCheck-managed entries from your server. This removes the listings placed in the server by FediCheck and currently managed by FediCheck.
 
-Purge All Data and Log Out - Revokes your account credentials, your server token, and purges all your data stored on FediCheck. Note: This does **not** remove any domain blocks - you may wish to run the Remove All Blocks action first.
+Purge All Data and Log Out - Revokes your account credentials, your server token, and purges all your data stored on FediCheck. Note: This does **not** remove any domain blocks FediCheck placed on your server - you may wish to run the Remove All Blocks action first.
 
 ## Help and Feedback
  - Email: fedicheck-support@iftas.org
