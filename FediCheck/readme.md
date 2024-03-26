@@ -25,22 +25,30 @@ The CARIAD version of FediCheck is a pilot example of FediCheck, intended for ne
  - During spam waves, FediCheck will monitor if a majority of large servers ```Limit``` a domain. FediCheck can ```Limit``` it for you based on your chosen threshold, and then undo that action once spam subsides.
  - IFTAS observes a source of illegal content and adds it to the DNI list. FediCheck can automatically block that domain's content from your server.
 
+## Supported Software
+
+FediCheck requires compatibility with the Mastodon API version 4.1 or above. Specifically, FediCheck requires the Administrative Domain Blocks APIs.
+
+This document will describe Mastodon implementation. Future versions may support additional platforms and versions.
+
+If you are using a service like Cloudflare with user-agent based bot detection, please add the `FediCheck/` user agent to the exclusion rules, otherwise we may have problems interacting with your server.
+
 ## Permissions
 
-FediCheck requires a Mastodon account with the relevant permissions. Mastodon API Version 4.1 or above is supported, this document will describe Mastodon implementation. Future versions may support additional platforms and versions.
+In Mastodon, FediCheck requires an account with the "Manage Federation" and "Manage Blocks" permissions, you may want to setup a dedicated role for that permission, the default roles in Mastodon of Admin and Owner will have full access to FediCheck.
 
- - ```read``` - to validate the access token (pending [this PR](https://github.com/mastodon/mastodon/pull/27142))
- - ```read:accounts``` - to confirm the account has the necessary permissions
- - ```admin:read:domain_blocks``` - to see what blocks are already in place
- - ```admin:write:domain_blocks``` - to create and update blocks from FediCheck
+We recommend administrators create a dedicated IFTAS service account, with a [specific role](https://docs.joinmastodon.org/admin/roles/#add-role) limited to just the "Manage Federation" and "Manage Blocks" permissions, instead of full administrative permissions. The service account should be marked as a automated account and use multi-factor authentication.
 
-We recommend service administrators create a dedicated IFTAS role account with only the minimum necessary permissions, and use that account to sign in to FediCheck.
-
-If creating a new account, consider removing from search, marking as unattended; and enabling multi-factor authentication. 
-
-Multiple accounts are supported, but only one account (of your choosing) will be used for writing blocks to your server. 
+Multiple accounts are supported, but only one account (of your choosing) will be used for writing blocks to your server. Other accounts may be used to read blocks from your server as to stay within API rate limits.
 
 While IFTAS employs standard security practices, it is not advised to use an account with full administrative permissions for this (or any other) third-party application.
+
+### OAuth Permissions
+
+ - ```read``` - to validate access tokens & OAuth Applications (See the Mastodon [pull request](https://github.com/mastodon/mastodon/pull/27142) removing the need for this scope)
+ - ```read:accounts``` - to confirm the account has the necessary permissions (For more information see "Future Versions" at the bottom of this document)
+ - ```admin:read:domain_blocks``` - to read what blocks are already in place
+ - ```admin:write:domain_blocks``` - to create and update blocks from FediCheck
 
 ## User Guide
 
@@ -145,6 +153,7 @@ IFTAS may operate a multi-tenant service to allow users to specify the server or
 ### Community / Ring of Trust
 IFTAS could host a service for a given community that wishes to share their collective block activities, by allowing a specific group of servers to use a common service.
 
-### Account Permissions
-We expect Mastodon 4.3 to allow FediCheck to request finer-grained read scopes, at which point we will request ```read:me```
+### Future Versions
+
+We expect Mastodon 4.3+ to allow FediCheck to request [finer-grained scopes](https://github.com/mastodon/mastodon/pull/29087) and [support negotiation of scopes](https://github.com/mastodon/mastodon/pull/29191), at which point we will request ```read:me``` instead of ```read``` and ```read:accounts``` scopes, however for older installs we will still request those scopes instead of the newer scope.
 
