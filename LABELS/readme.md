@@ -4,6 +4,7 @@ IFTAS and the SW-ISAC use the following labels and definitions to label actors, 
 
 ```
 Account-Takeover
+APT
 Astroturfing
 Brigading
 Catfishing
@@ -29,7 +30,7 @@ NCII
 Online-Harassment
 Phishing
 Service-Abuse
-Sock-Puppets
+Sock-Puppet
 Sextortion
 Spam
 Synthetic-Media
