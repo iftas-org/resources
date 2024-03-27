@@ -125,7 +125,7 @@ Unsolicited repeated behavior against another person, usually with the intent to
 ## Phishing
 The fraudulent practice of sending emails or other messages purporting to be from reputable sources in order to induce individuals to reveal personal information, such as passwords and credit card numbers.
 
-## Sock-Puppets
+## Sock-Puppet
 Multiple, fake accounts used to create an illusion of consensus or popularity, such as by liking or reposting content in order to amplify it.
 
 ## Service-Abuse
