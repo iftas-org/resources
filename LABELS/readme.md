@@ -16,7 +16,7 @@ Cross-Platform-Abuse
 CSAM
 CSEA
 Defamation
-Dehumanization
+Dehumanisation
 Disinformation
 Doxxing
 Explicit-Content
@@ -86,7 +86,7 @@ Child Sexual Exploitation and Abuse - A broad category that encompasses both the
 ## Defamation
 A legal claim based on asserting something about a person that is shared with others and which causes harm to the reputation of the statement’s subject (the legal elements and applicable defenses vary by jurisdiction).
 
-## Dehumanization
+## Dehumanisation
 Describing people in ways that deny or diminish their humanity, such as comparing a given group to insects, animals or diseases.
 
 ## Disinformation
