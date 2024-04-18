@@ -4,6 +4,8 @@
 
 :arrow_right: https://connect.iftas.org/library/tools-resources/reserved-words/ :arrow_left:
 
+---
+
 This list could be used by client applications to either restrict or flag for human review. Apps and account creation workflows could choose to prohibit these usernames, or limit these usernames from interacting publicly until the account has been approved. 
 
 This list can also be considered for hashtag constraints, disallowing the use of these words as hashtags.
