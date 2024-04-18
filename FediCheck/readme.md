@@ -1,3 +1,12 @@
+:warning: **Please be aware: This content is being moved to the IFTAS Connect Library and will be removed from GitHub on June 30th, 2024.**
+
+:warning: **The content below may be out of date, please see the following link to see the most current version.**
+
+:arrow_right: https://connect.iftas.org/library/iftas-documentation/fedicheck/ :arrow_left:
+ 
+---
+
+
 ![fedicheck](https://github.com/iftas-org/resources/assets/3419832/554fdb76-12b8-44f3-9e3f-703ed3daddc9)
 
 # IFTAS FediCheck
