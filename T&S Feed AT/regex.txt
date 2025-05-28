@@ -11,7 +11,7 @@ fake[\s_-]+news|
 algorithmic[\s_-]+accountability|
 algorithmic[\s_-]+bias|
 civic[\s_-]+integrity|
-non[\s_-]+consensual[\s_-]+intimate[\s_-]+images|
+non[\s_-]+consensual[\s_-]+intimate[\s_-]+image[s]?|
 sextortion|
 doxxing|
 swatting|
