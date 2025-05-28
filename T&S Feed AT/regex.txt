@@ -1,4 +1,5 @@
-trust[\s_-]*[&and]+[\s_-]*safety
+t&s
+|trust[\s_-]*[&and]+[\s_-]*safety
 |content[\s_-]+moderation
 |policy[\s_-]+enforcement
 |online[\s_-]+abuse
@@ -20,7 +21,6 @@ trustandsafety|
 \bCSAM\b|
 \bNCII\b|
 \bTVEC\b|
-\bIFTAS\b|
 \bToS\b|
 \bAUP\b|
 \bGDPR\b|
