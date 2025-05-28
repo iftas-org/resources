@@ -55,4 +55,7 @@ transparency[\s_-]+report?
 gmi
 
 
-Accounts found in List https://bsky.app/profile/iftas.org/lists/3lpax4qzrrf24 AND matching the above will be included DM @iftas.org to suggest new accounts for the List
+Accounts found in List https://bsky.app/profile/iftas.org/lists/3lpax4qzrrf24 AND posts no more than 72 hours old matching the above will be included 
+
+DM @iftas.org to suggest new accounts for the List
+DM @iftas.org to suggest changes/additions to this ruleset, or submit a PR/Issue (and DM us to let us know)
