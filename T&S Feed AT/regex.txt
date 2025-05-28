@@ -1,5 +1,5 @@
 t&s|
-trust[\s_-]*[&and]+[\s_-]*safety|
+\btrust(?:[\s-]*and[\s-]*|[\s-]*&[\s-]*|[\s-]+)safety\b|
 content[\s_-]+moderation|
 policy[\s_-]+enforcement|
 online[\s_-]+abuse|
@@ -53,6 +53,7 @@ ban[\s_-]+evasion|
 age[\s_-]+verification|
 transparency[\s_-]+report? 
 gmi
+
 
 
 Accounts found in List https://bsky.app/profile/iftas.org/lists/3lpax4qzrrf24 AND posts no more than 72 hours old matching the above will be included 
